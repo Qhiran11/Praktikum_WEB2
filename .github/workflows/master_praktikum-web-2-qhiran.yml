@@ -85,4 +85,4 @@ jobs:
           app-name: 'praktikum-web-2-qhiran'
           slot-name: 'Production'
           package: .
-          
+         
